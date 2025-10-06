@@ -4,6 +4,7 @@ out/
 lib/
 artifacts/
 node_modules/
+broadcast/
 
 # Ignores development broadcast logs
 !/broadcast
