@@ -3,6 +3,7 @@ cache/
 out/
 lib/
 artifacts/
+node_modules/
 
 # Ignores development broadcast logs
 !/broadcast
